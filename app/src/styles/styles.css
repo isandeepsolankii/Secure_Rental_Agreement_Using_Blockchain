@@ -1,0 +1,97 @@
+
+.Contract_image {
+  margin-top: 2%;
+  margin-left: 10%;
+  width: 350px;
+  height: 450px;
+}
+.btn{
+  width:150px;
+  margin-left: 15px;
+}
+
+
+/*.Landlordcard{
+  margin-left: 300px;
+}*/
+
+.card{
+  float:  left;
+  display: block;
+  margin-top: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+.pro h3{
+display: inline-block;
+color: #fff;
+}
+
+.card1{
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.card2{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.home_icon{
+  color: white;
+  font-size: 40px;
+}
+.renttt{
+  color: white;
+  float: right;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.registerform{
+  max-width: 500px;
+  width: 100%;
+  background: #fff;
+  margin: 50px 0px 50px 30px ;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.125);
+  padding: 30px;
+  border-radius: 25px;
+}
+.title{
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 25px;
+  color: #072227;
+  text-transform: uppercase;
+  text-align: center;
+}
+.inputfield{
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+.inputfield label{
+   width: 200px;
+   color: #000000;
+   margin-right: 10px;
+  font-size: 14px;
+}
+.registerform .text-center{
+  margin-top: 20px;
+}
+
+.hrline{
+  border-top: 1px solid white;
+}
+.implines{
+  color: white;
+}
+.implines h3{
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+.implines p {
+  font-size: 20px;
+}
+.tenant_ordered_list p {
+  font-size: 15px;
+}
